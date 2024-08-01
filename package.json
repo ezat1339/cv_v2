@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "this is  my cv",
+  "main": "main_٠٧٢٧٠٤.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezat1339/cv_v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezat1339/cv_v2/issues"
+  },
+  "homepage": "https://github.com/ezat1339/cv_v2#readme"
+}
